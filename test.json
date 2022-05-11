@@ -1,0 +1,17 @@
+[{"image_id":"TomatoEarlyBlight1.JPG","disease_class":"2"},
+    {"image_id":"TomatoEarlyBlight2.JPG","disease_class":"2"},
+    {"image_id":"TomatoEarlyBlight3.JPG","disease_class":"2"},
+    {"image_id":"TomatoEarlyBlight4.JPG","disease_class":"2"},
+    {"image_id":"TomatoEarlyBlight5.JPG","disease_class":"2"},
+    {"image_id":"TomatoEarlyBlight6.JPG","disease_class":"2"},
+    {"image_id":"TomatoHealthy1.JPG","disease_class":"3"},
+    {"image_id":"TomatoHealthy2.JPG","disease_class":"3"},
+    {"image_id":"TomatoHealthy3.JPG","disease_class":"3"},
+    {"image_id":"TomatoHealthy4.JPG","disease_class":"3"},
+    {"image_id":"TomatoYellowCurlVirus1.JPG","disease_class":"10"},
+    {"image_id":"TomatoYellowCurlVirus2.JPG","disease_class":"10"},
+    {"image_id":"TomatoYellowCurlVirus3.JPG","disease_class":"10"},
+    {"image_id":"TomatoYellowCurlVirus4.JPG","disease_class":"10"},
+    {"image_id":"TomatoYellowCurlVirus5.JPG","disease_class":"10"},
+    {"image_id":"TomatoYellowCurlVirus6.JPG","disease_class":"10"}
+]
